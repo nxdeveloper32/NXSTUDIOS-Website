@@ -471,7 +471,8 @@ ul {
 
 /* line 247, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
 .body_bg {
-  background-image: url("../img/body_bg.png");
+  /*background-image: url("../img/body_bg.png");*/
+  background-color: black;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2829,7 +2830,9 @@ ul {
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
-
+.rightMargin{
+  margin-right: 25px;
+}
 /* line 79, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_live_stareams.scss */
 .live_stareams .live_stareams_slide .live_stareams_slide_img img {
   width: 100%;
