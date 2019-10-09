@@ -719,7 +719,7 @@ ul {
 /* line 163, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_button.scss */
 .button-contactForm {
   color: #fff;
-  border-color: #edeff2;
+  /*border-color: #edeff2;*/
   padding: 12px 25px;
 }
 
@@ -6016,7 +6016,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   margin-bottom: 0;
   font-size: 16px;
-  color: #2a2a2a;
+  color: #333;
 }
 
 /* line 23, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_contact.scss */
