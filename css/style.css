@@ -544,7 +544,8 @@ ul {
 .btn_1 {
   display: inline-block;
   padding: 18.5px 40px;
-  border-radius: 0;
+  /*border-radius: 0;*/
+  border-radius: 50px;
   font-size: 15px;
   font-family: "Aclonica", sans-serif;
   font-weight: 500;
@@ -554,15 +555,26 @@ ul {
   transition: all .4s ease-in-out;
   text-transform: capitalize;
   background-size: 200% auto;
-  border: 1px solid transparent;
+  border: 3px solid transparent;
+  background: transparent;
+    /* just to show box-shadow still works fine */
+    /*New*/
+    box-shadow: 0 0px 5px #450b66, inset 0 0 5px #00fff2;
 }
 
 /* line 39, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_button.scss */
 .btn_1:hover {
   color: #fff !important;
   background-position: right center;
+    /*New*/
+    box-shadow: 0 0px 5px #00fff2, inset 0 0 5px #450b66;
 }
-
+    /*New*/
+.btn_1:focus {
+  color: #fff !important;
+  background-position: right center;
+    box-shadow: 0 0px 5px #00fff2, inset 0 0 5px #450b66;
+}
 @media (max-width: 576px) {
   /* line 24, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_button.scss */
   .btn_1 {
