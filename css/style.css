@@ -2223,13 +2223,13 @@ ul {
   padding: 43px 23px;
   font-family: "Poppins", sans-serif;
   text-transform: capitalize;
-  line-height: 12px;
+  line-height: 40px;
   font-weight: 400;
 }
 
 /* line 29, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
 .main_menu .main-menu-item ul li .nav-link:hover {
-  color: #fff;
+  color: #00fff2;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -5712,7 +5712,7 @@ h1, h2, h3, h4, h5, h6 {
 /* line 1089, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
 .section-top-border {
   padding: 50px 0;
-  border-top: 1px dotted #eee;
+/*border-top: 1px dotted #eee; Dotted Border Removed*/ 
 }
 
 /* line 1093, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_elements.scss */
