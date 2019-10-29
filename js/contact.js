@@ -91,6 +91,8 @@ $(document).ready(function(){
                             $('#success').fadeIn()
                             $('.modal').modal('hide');
                             $('#success').modal('show');
+                            alert("Thanks for connecting with us. We will get back to you shortly.");
+                            window.location.href = "contact.html";
                         })
                     },
                     error: function() {
