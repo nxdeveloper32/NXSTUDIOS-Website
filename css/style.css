@@ -2004,7 +2004,7 @@ ul {
 /* line 1384, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .comments-area .comment {
   margin-bottom: 10px;
-  color: #777777;
+  color: #dbdbdb;
   font-size: 15px;
 }
 
@@ -2087,7 +2087,7 @@ ul {
 
 /* line 1462, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
 .comment-form .form-control::placeholder {
-  color: #777777;
+  color: #dbdbdb;
 }
 
 /* line 1467, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_blog.scss */
