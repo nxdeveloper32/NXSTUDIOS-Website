@@ -727,7 +727,17 @@ ul {
   background: #b8024c;
   color: #fff;
 }
-
+.headerLink{
+  font-size:3vw;
+  text-transform: capitalize;
+  font-weight: 700;
+  margin-bottom: 32px;
+  line-height: 70px;
+  color: #fff;
+}
+.headerLink:hover{
+  color : green;
+}
 /* line 163, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_button.scss */
 .button-contactForm {
   color: #fff;
@@ -2413,7 +2423,10 @@ ul {
   background-color: #450b66;
   text-transform: capitalize;
 }
-
+.dropdown .dropdown-menu .dropdown-item:hover{
+  background-color: #00fff2;
+  color: #000 !important;
+}
 /* line 205, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_menu.scss */
 .dropdown:hover .dropdown-menu {
   transform: scale(1);
@@ -6462,6 +6475,9 @@ h1, h2, h3, h4, h5, h6 {
 /* line 184, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
 .footer_part .copyright_text p {
   color: #888;
+}
+a:hover{
+    color: red;
 }
 
 /* line 188, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
