@@ -5,220 +5,221 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-  xsi:schemaLocation=
-        "http://www.sitemaps.org/schemas/sitemap/0.9 
+  xsi:schemaLocation="
+        http://www.sitemaps.org/schemas/sitemap/0.9 
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        
   <url>
-    <loc>http://nxstudios.tk/</loc>
-    <lastmod>2019-10-31T04:30:31+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0000</priority>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
-         <image:caption>NX Studios Logo</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/banner_bg.png</image:loc>
-         <image:caption>Bomber Brigade Featured Image</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/event_bg.png</image:loc>
-         <image:caption>Upcoming Game Featured Image</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/pic1.png</image:loc>
-         <image:caption>Navin Agarwal</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/about_img.png</image:loc>
-         <image:caption>Project Earth</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/ItchGames/1.png</image:loc>
-         <image:caption>Ludum Dare Time Sucker</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/ItchGames/2.png</image:loc>
-         <image:caption>Ludum Dare Bomber Brigade 2</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/ItchGames/3.png</image:loc>
-         <image:caption>Ludum Dare Time Sucker</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/ItchGames/4.png</image:loc>
-         <image:caption>Ludum Dare The Game Journey 3</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/ItchGames/5.png</image:loc>
-         <image:caption>Ludum Dare The Game Journey 1</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/ItchGames/6.png</image:loc>
-         <image:caption>Ludum Dare Counting The Minutes</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/ItchGames/7.png</image:loc>
-         <image:caption>Ludum Dare The Game Journey 2</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/ItchGames/8.png</image:loc>
-         <image:caption>Ludum Dare Bomber Brigade1</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://nxstudios.tk/AboutUs.html</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0000</priority>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
-         <image:caption>NX Studios Logo About Us</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/Navin.png</image:loc>
-         <image:caption>Navin Agarwal Featured Image</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/pic1.png</image:loc>
-         <image:caption>Navin Agarwal About Us Page</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://nxstudios.tk/BomberBrigade.html</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0000</priority>
+        <loc>http://nxstudios.tk/</loc>
+        <lastmod>2019-10-31T04:30:31+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0000</priority>
         <image:image>
-         <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
-         <image:caption>NX Studios Logo Bomber Brigade Page</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/pic1.png</image:loc>
-         <image:caption>Navin Agarwal Bomber Brigade Page</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_1.png</image:loc>
-         <image:caption>bomberbrigade 1</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_2.png</image:loc>
-         <image:caption>bomberbrigade 2</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_3.png</image:loc>
-         <image:caption>bomberbrigade 3</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_4.png</image:loc>
-         <image:caption>bomberbrigade 4</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_5.png</image:loc>
-         <image:caption>bomberbrigade 5</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_6.png</image:loc>
-         <image:caption>bomberbrigade 6</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_7.png</image:loc>
-         <image:caption>bomberbrigade 7</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_8.png</image:loc>
-         <image:caption>bomberbrigade 8</image:caption>
-    </image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_9.png</image:loc>
-         <image:caption>bomberbrigade 9</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_10.png</image:loc>
-         <image:caption>bomberbrigade 10</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_11.png</image:loc>
-         <image:caption>bomberbrigade 11</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_12.png</image:loc>
-         <image:caption>bomberbrigade 12</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_13.png</image:loc>
-         <image:caption>bomberbrigade 13</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_14.png</image:loc>
-         <image:caption>bomberbrigade 14</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_15.png</image:loc>
-         <image:caption>bomberbrigade 15</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_16.png</image:loc>
-         <image:caption>bomberbrigade 16</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_17.png</image:loc>
-         <image:caption>bomberbrigade 17</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/bomberbrigade/image_18.png</image:loc>
-         <image:caption>bomberbrigade 18</image:caption>
-    </image:image>
+             <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
+             <image:caption>NX Studios Logo</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/banner_bg.png</image:loc>
+             <image:caption>Bomber Brigade Featured Image</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/event_bg.png</image:loc>
+             <image:caption>Upcoming Game Featured Image</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/pic1.png</image:loc>
+             <image:caption>Navin Agarwal</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/about_img.png</image:loc>
+             <image:caption>Project Earth</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/ItchGames/1.png</image:loc>
+             <image:caption>Ludum Dare Time Sucker</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/ItchGames/2.png</image:loc>
+             <image:caption>Ludum Dare Bomber Brigade 2</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/ItchGames/3.png</image:loc>
+             <image:caption>Ludum Dare Time Sucker</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/ItchGames/4.png</image:loc>
+             <image:caption>Ludum Dare The Game Journey 3</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/ItchGames/5.png</image:loc>
+             <image:caption>Ludum Dare The Game Journey 1</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/ItchGames/6.png</image:loc>
+             <image:caption>Ludum Dare Counting The Minutes</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/ItchGames/7.png</image:loc>
+             <image:caption>Ludum Dare The Game Journey 2</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/ItchGames/8.png</image:loc>
+             <image:caption>Ludum Dare Bomber Brigade1</image:caption>
+        </image:image>
   </url>
   <url>
-    <loc>http://nxstudios.tk/contact.html</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0000</priority>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
-         <image:caption>NX Studios Logo Contact Us Page</image:caption>
-    </image:image>
+        <loc>http://nxstudios.tk/AboutUs.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0000</priority>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
+             <image:caption>NX Studios Logo About Us</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/Navin.png</image:loc>
+             <image:caption>Navin Agarwal Featured Image</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/pic1.png</image:loc>
+             <image:caption>Navin Agarwal About Us Page</image:caption>
+        </image:image>
   </url>
   <url>
-    <loc>http://nxstudios.tk/ProjectEarth.html</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0000</priority>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
-         <image:caption>NX Studios Logo Project Earth Page</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/pic1.png</image:loc>
-         <image:caption>Navin Agarwal Project Earth Page</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/projectearth/image_1.png</image:loc>
-         <image:caption>projectearth 1</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/projectearth/image_2.png</image:loc>
-         <image:caption>projectearth 2</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/projectearth/image_3.png</image:loc>
-         <image:caption>projectearth 3</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/projectearth/image_4.png</image:loc>
-         <image:caption>projectearth 4</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/projectearth/image_5.png</image:loc>
-         <image:caption>projectearth 5</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/projectearth/image_6.png</image:loc>
-         <image:caption>projectearth 6</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/projectearth/image_7.png</image:loc>
-         <image:caption>projectearth 7</image:caption>
-    </image:image>
-    <image:image>
-         <image:loc>https://nxstudios.tk/img/projectearth/image_8.png</image:loc>
-         <image:caption>projectearth 8</image:caption>
-    </image:image>
+        <loc>http://nxstudios.tk/BomberBrigade.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0000</priority>
+            <image:image>
+             <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
+             <image:caption>NX Studios Logo Bomber Brigade Page</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/pic1.png</image:loc>
+             <image:caption>Navin Agarwal Bomber Brigade Page</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_1.png</image:loc>
+             <image:caption>bomberbrigade 1</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_2.png</image:loc>
+             <image:caption>bomberbrigade 2</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_3.png</image:loc>
+             <image:caption>bomberbrigade 3</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_4.png</image:loc>
+             <image:caption>bomberbrigade 4</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_5.png</image:loc>
+             <image:caption>bomberbrigade 5</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_6.png</image:loc>
+             <image:caption>bomberbrigade 6</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_7.png</image:loc>
+             <image:caption>bomberbrigade 7</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_8.png</image:loc>
+             <image:caption>bomberbrigade 8</image:caption>
+        </image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_9.png</image:loc>
+             <image:caption>bomberbrigade 9</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_10.png</image:loc>
+             <image:caption>bomberbrigade 10</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_11.png</image:loc>
+             <image:caption>bomberbrigade 11</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_12.png</image:loc>
+             <image:caption>bomberbrigade 12</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_13.png</image:loc>
+             <image:caption>bomberbrigade 13</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_14.png</image:loc>
+             <image:caption>bomberbrigade 14</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_15.png</image:loc>
+             <image:caption>bomberbrigade 15</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_16.png</image:loc>
+             <image:caption>bomberbrigade 16</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_17.png</image:loc>
+             <image:caption>bomberbrigade 17</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/bomberbrigade/image_18.png</image:loc>
+             <image:caption>bomberbrigade 18</image:caption>
+        </image:image>
+  </url>
+  <url>
+        <loc>http://nxstudios.tk/contact.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0000</priority>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
+             <image:caption>NX Studios Logo Contact Us Page</image:caption>
+        </image:image>
+  </url>
+  <url>
+        <loc>http://nxstudios.tk/ProjectEarth.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0000</priority>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
+             <image:caption>NX Studios Logo Project Earth Page</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/pic1.png</image:loc>
+             <image:caption>Navin Agarwal Project Earth Page</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/projectearth/image_1.png</image:loc>
+             <image:caption>projectearth 1</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/projectearth/image_2.png</image:loc>
+             <image:caption>projectearth 2</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/projectearth/image_3.png</image:loc>
+             <image:caption>projectearth 3</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/projectearth/image_4.png</image:loc>
+             <image:caption>projectearth 4</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/projectearth/image_5.png</image:loc>
+             <image:caption>projectearth 5</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/projectearth/image_6.png</image:loc>
+             <image:caption>projectearth 6</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/projectearth/image_7.png</image:loc>
+             <image:caption>projectearth 7</image:caption>
+        </image:image>
+        <image:image>
+             <image:loc>https://nxstudios.tk/img/projectearth/image_8.png</image:loc>
+             <image:caption>projectearth 8</image:caption>
+        </image:image>
   </url>
 </urlset>
