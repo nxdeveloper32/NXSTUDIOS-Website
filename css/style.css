@@ -7,7 +7,11 @@
   background-image: -o-linear-gradient(right, #00fff2 0%, #450b66 51%, #00fff2 100%);
   background-image: linear-gradient(to left, #00fff2 0%, #450b66 51%, #00fff2 100%);
 }
-
+.body_bg_about{
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#141414), color-stop(#191c1f), color-stop(#1a242a), color-stop(#192d32), to(#193736));
+  background-image: -o-linear-gradient(top, #141414, #191c1f, #1a242a, #192d32, #193736);
+  background-image: linear-gradient(to bottom, #141414, #191c1f, #1a242a, #192d32, #193736);
+}
 /* line 8, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_extends.scss */
 .main_menu .main-menu-item .nav-item a:before {
   background-image: -webkit-gradient(linear, right top, left top, from(#450b66), to(#00fff2));
