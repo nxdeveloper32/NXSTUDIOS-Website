@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset 
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -8,7 +7,7 @@
   xsi:schemaLocation="
         http://www.sitemaps.org/schemas/sitemap/0.9 
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-        
+
   <url>
         <loc>http://nxstudios.tk/</loc>
         <lastmod>2019-10-31T04:30:31+00:00</lastmod>
