@@ -6534,11 +6534,11 @@ a:hover{
    text-align: center;
 }
 .avatar>img{
-  border-radius: 500px;
+  border-radius: 600px;
   height:120px;
   width:120px; 
 }
 .artist-name{
-  font-size: 1vw;
+  font-size: 20px;
 }
 /*# sourceMappingURL=style.css.map */
