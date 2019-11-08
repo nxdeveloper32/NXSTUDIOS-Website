@@ -6,13 +6,13 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
   xsi:schemaLocation="
         http://www.sitemaps.org/schemas/sitemap/0.9 
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        "http://www.google.com/schemas/sitemap-image/1.1 
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 
   <url>
         <loc>http://nxstudios.tk/</loc>
         <lastmod>2019-10-31T04:30:31+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0000</priority>
         <image:image>
              <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
              <image:caption>NX Studios Logo</image:caption>
@@ -68,8 +68,6 @@
   </url>
   <url>
         <loc>http://nxstudios.tk/AboutUs.html</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0000</priority>
         <image:image>
              <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
              <image:caption>NX Studios Logo About Us</image:caption>
@@ -85,8 +83,6 @@
   </url>
   <url>
         <loc>http://nxstudios.tk/BomberBrigade.html</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0000</priority>
             <image:image>
              <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
              <image:caption>NX Studios Logo Bomber Brigade Page</image:caption>
@@ -170,8 +166,6 @@
   </url>
   <url>
         <loc>http://nxstudios.tk/contact.html</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0000</priority>
         <image:image>
              <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
              <image:caption>NX Studios Logo Contact Us Page</image:caption>
@@ -179,8 +173,6 @@
   </url>
   <url>
         <loc>http://nxstudios.tk/ProjectEarth.html</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0000</priority>
         <image:image>
              <image:loc>https://nxstudios.tk/img/logo.png</image:loc>
              <image:caption>NX Studios Logo Project Earth Page</image:caption>
