@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example Page</title>
+    <script type="text/javascript" src="combined.js"></script>
+</head>
+<body>
+    <div id="name-display"></div>
+    <script>
+        var params = new URLSearchParams(location.search);
+        var rsa_E = params.get('rsaE');
+        var rsa_M = params.get('rsaM');
+        var val = params.get('val');
+        document.getElementById("name-display").textContent = cmdEncrypt(val,rsa_E,rsa_M);
+    </script>
+</body>
+</html>
